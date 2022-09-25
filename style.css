@@ -1,0 +1,148 @@
+.list{
+    list-style-type: none;
+}
+.list li{
+   
+float:left;
+}
+a{
+   font-size:30px;
+   color:grey;
+    text-decoration: none;
+    margin-left:60px;
+}
+
+.heading{
+    color:green;
+    font-weight: bold;
+}
+
+.icon{
+    width:2%;
+    float:right;
+    margin-right:40px ;
+}
+
+.section{
+    width:70%;
+    height:10vh;
+    background:white;
+    display:block;
+    margin:auto;
+    border: 1px solid grey;
+
+}
+body{
+background:beige;}
+
+.dashboard{
+    height: auto;
+    width:20%;
+    background:white;
+    position:absolute;
+    top:20%;
+    left:10%;
+    text-align:center;
+}
+.profileimg{
+    border-radius: 50%;
+}
+button{
+    background:green;
+    color:azure;
+    border-radius:5px;
+    border:none;
+    padding:20px 10px;
+}
+
+.section1{
+   background-color: white;
+    height:120%;
+    width:58%;
+    text-align:center;
+    position:absolute;
+    top:20%;
+    right:10%;
+}
+
+.secbuttons{
+   margin:20px;
+    border-radius:5px;
+    border:none;
+    padding:20px 10px;
+    display:flex;
+    
+}
+.button1{
+    padding:7px 25px; 
+    background:red;
+    margin-right: 10px;
+}
+
+.button2{
+    padding:7px 25px; 
+    background:red;
+    margin-right: 10px;
+}
+.button3{
+    padding:7px 25px; 
+    background:red;
+    margin-right: 10px;
+}
+.button4{
+    padding:7px 25px; 
+    background:red;
+    margin-right: 10px;
+}
+
+.card1{
+    width:30%;
+    height:50vh;
+ background-color: azure;
+    text-align: left;
+   
+    
+}
+.card1 img{
+    
+  width:100%;
+  
+}
+
+.cardbutton{
+    background-color: rgb(234, 227, 227);
+    color:black;
+    
+}
+
+.cardbutton:hover{
+    background-color: green;
+    color:white;
+}
+
+.pages{
+    width:100%;
+    height:50vh;
+    margin-top: 30px;
+    
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.footer{
+    width:100%;
+    height:10vh;
+    background-color:grey;
+    color:white;
+    position:absolute;
+    top:200%;
+
+    text-align: center;
+
+
+
+}
+
+
+
+
